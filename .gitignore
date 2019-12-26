@@ -207,3 +207,4 @@ fabric.properties
 enhanced_craigslist/__pycache__/
 my_app/__pycache__/
 my_app/migrations/__pycache__/
+staticfiles/

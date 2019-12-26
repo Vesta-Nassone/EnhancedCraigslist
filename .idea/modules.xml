@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/EnhancedCraigslist.iml" filepath="$PROJECT_DIR$/.idea/EnhancedCraigslist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/enhanced_craigslist.iml" filepath="$PROJECT_DIR$/.idea/enhanced_craigslist.iml" />
     </modules>
   </component>
 </project>

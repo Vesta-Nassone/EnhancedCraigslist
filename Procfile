@@ -1,1 +1,1 @@
-web: gunicorn enhanced_craigslist.wsgi
+web: gunicorn EnhancedCraigslist.wsgi

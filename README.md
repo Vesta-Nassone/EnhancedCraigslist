@@ -4,3 +4,4 @@ The tools that we used include:
   -> Materialize for front-end staff
   -> Heroku for Online hosting
   -> BeautifulSoup for Web Scrapping, No APIs
+  -> HTML5 and CSS for page rendering and designing
